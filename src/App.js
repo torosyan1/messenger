@@ -12,7 +12,8 @@ class Messenger extends React.Component {
       inputValue: "",
       dataMessage: {},
       currentUser: UsersArray[0],
-      inputValuePerson: ""
+      inputValuePerson: "",
+      change: 25
     };
   }
 
